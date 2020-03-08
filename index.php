@@ -11,7 +11,7 @@ require 'blocks/head.php';
         <div class="col">
 
         </div>
-        <div class="col-8">
+        <div class="col-8 mt-3 mb-3">
             <h1>Система складского учета</h1>
             <img src="/img/1.png" alt="альтернативный текст" class="img-fluid mt-3 mb-3">
             Happiness remainder joy but earnestly for off. Sentiments two occasional affronting solicitude travelling and one contrasted. Feel and make two real miss use easy. An concluded sportsman offending so provision mr education. Uncommonly no it announcing melancholy an in. Limits far yet turned highly repair parish talked six. So by colonel hearte
